@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  api_manager:
+    image: higorsouza/api-manager:0.0.1
+    networks:
+      - products-mamanger
+    ports:
+      - "8080:8080"
+
+networks:
+  products-mamanger:
+    driver: bridge

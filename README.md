@@ -31,6 +31,12 @@ This project integrates the backend that manages the frontend solution for sales
 
 <img src="./images/diagrama-api-manager.png" alt="payment-api-service" width="80%">
 
+### Arquiteturas
+
+[x] Arquitetura MVC
+[x] Testes unitários
+[x] Arquitetura REST
+
 ### Route Mapping
 
 #### Suppliers
